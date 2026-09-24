@@ -8,4 +8,5 @@ print("Mult:", a * b)
 if b != 0:
     print("twin:", a / b)
 else:
-    print("you can not do this")
+    print("БЛЯТЬ ДАЛБАЕБ")
+    
